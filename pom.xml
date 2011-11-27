@@ -21,6 +21,12 @@
 			<version>4.10</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.jooq</groupId>
+			<!-- artefacts are jooq, jooq-meta, jooq-codegen -->
+			<artifactId>jooq</artifactId>
+			<version>1.6.9</version>
+		</dependency>
 	</dependencies>
 	
 	<build>
